@@ -1,0 +1,22 @@
+PROJECT ROADMAP:
+
+Completed:
+-- Create basic HTML / CSS site
+
+-- Set up file structure / database
+
+-- Work on settings/core FP object
+
+-- Put login/logout functionality in place
+
+-- add the FP toolbar and additional core functions
+
+-- ensure that non-logged in users can't access restricted areas of site
+
+-- create editable regions that display correctly when logged in
+
+-- build out our CMS object, allowing content to be stored in the database
+
+-- add in WYSIWYG functionality
+
+ToDo:

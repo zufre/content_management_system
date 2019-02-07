@@ -1,0 +1,5 @@
+http://blog.mirthlab.com/2008/11/13/dynamically-adding-and-removing-tinymce-instances-to-a-page/
+
+http://stackoverflow.com/questions/699615/cant-post-twice-from-the-same-ajax-tinymce-textarea
+
+http://tinymce.moxiecode.com/forum/viewtopic.php?id=12338
